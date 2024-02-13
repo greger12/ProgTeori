@@ -1,0 +1,3 @@
+C:/Users/emil9/CLionProjects/Lab1ProgTeori/cmake-build-debug/CMakeFiles/Lab1ProgTeori.dir
+C:/Users/emil9/CLionProjects/Lab1ProgTeori/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/emil9/CLionProjects/Lab1ProgTeori/cmake-build-debug/CMakeFiles/rebuild_cache.dir
